@@ -1,0 +1,695 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\oktay\\source\\repos\\Task1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1E7511BF-9AEB-4128-B86C-8953B637DF0B}|..\\Task12\\Task12.csproj|c:\\users\\oktay\\source\\repos\\task12\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E7511BF-9AEB-4128-B86C-8953B637DF0B}|..\\Task12\\Task12.csproj|c:\\users\\oktay\\source\\repos\\task12\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E7511BF-9AEB-4128-B86C-8953B637DF0B}|..\\Task12\\Task12.csproj|c:\\users\\oktay\\source\\repos\\task12\\type.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E7511BF-9AEB-4128-B86C-8953B637DF0B}|..\\Task12\\Task12.csproj|c:\\users\\oktay\\source\\repos\\task12\\catalog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB260B37-245F-4C58-9A8D-AAAF8E81AC09}|..\\Task15\\Task15.csproj|c:\\users\\oktay\\source\\repos\\task15\\degree.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB260B37-245F-4C58-9A8D-AAAF8E81AC09}|..\\Task15\\Task15.csproj|c:\\users\\oktay\\source\\repos\\task15\\grade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB260B37-245F-4C58-9A8D-AAAF8E81AC09}|..\\Task15\\Task15.csproj|c:\\users\\oktay\\source\\repos\\task15\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB260B37-245F-4C58-9A8D-AAAF8E81AC09}|..\\Task15\\Task15.csproj|c:\\users\\oktay\\source\\repos\\task15\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{542ED72D-CD1A-4527-90FB-AF46E3195EF2}|..\\Task14\\Task14.csproj|c:\\users\\oktay\\source\\repos\\task14\\trafficlights.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{542ED72D-CD1A-4527-90FB-AF46E3195EF2}|..\\Task14\\Task14.csproj|c:\\users\\oktay\\source\\repos\\task14\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B93A11B-627C-426B-9A45-9EE5A535C748}|..\\Task13\\Task13.csproj|c:\\users\\oktay\\source\\repos\\task13\\song.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B93A11B-627C-426B-9A45-9EE5A535C748}|..\\Task13\\Task13.csproj|c:\\users\\oktay\\source\\repos\\task13\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B93A11B-627C-426B-9A45-9EE5A535C748}|..\\Task13\\Task13.csproj|c:\\users\\oktay\\source\\repos\\task13\\playlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B93A11B-627C-426B-9A45-9EE5A535C748}|..\\Task13\\Task13.csproj|c:\\users\\oktay\\source\\repos\\task13\\genre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39B5B839-8D24-4FF2-BBBC-7125B37854A0}|..\\Task11\\Task11.csproj|c:\\users\\oktay\\source\\repos\\task11\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39B5B839-8D24-4FF2-BBBC-7125B37854A0}|..\\Task11\\Task11.csproj|c:\\users\\oktay\\source\\repos\\task11\\mathutils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{460A174C-B241-4DEC-9142-86F6A935594C}|..\\Task10\\Task10.csproj|c:\\users\\oktay\\source\\repos\\task10\\stringext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{460A174C-B241-4DEC-9142-86F6A935594C}|..\\Task10\\Task10.csproj|c:\\users\\oktay\\source\\repos\\task10\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51196E3C-F24C-48C5-894E-0F7EFC44846F}|..\\Task9\\Task9.csproj|c:\\users\\oktay\\source\\repos\\task9\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51196E3C-F24C-48C5-894E-0F7EFC44846F}|..\\Task9\\Task9.csproj|c:\\users\\oktay\\source\\repos\\task9\\stringext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88C475EA-3DC1-4F88-8769-EE99CA02EC1D}|..\\Task6\\Task6.csproj|c:\\users\\oktay\\source\\repos\\task6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88C475EA-3DC1-4F88-8769-EE99CA02EC1D}|..\\Task6\\Task6.csproj|c:\\users\\oktay\\source\\repos\\task6\\stringext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1B08DB5-8ADE-42FC-AE30-D8755D9D9A62}|..\\Task8\\Task8.csproj|c:\\users\\oktay\\source\\repos\\task8\\stringext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1B08DB5-8ADE-42FC-AE30-D8755D9D9A62}|..\\Task8\\Task8.csproj|c:\\users\\oktay\\source\\repos\\task8\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13BBB4DC-73FA-4348-984E-B9D08E7CF163}|..\\Task7\\Task7.csproj|c:\\users\\oktay\\source\\repos\\task7\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13BBB4DC-73FA-4348-984E-B9D08E7CF163}|..\\Task7\\Task7.csproj|c:\\users\\oktay\\source\\repos\\task7\\stringext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13BBB4DC-73FA-4348-984E-B9D08E7CF163}|..\\Task7\\Task7.csproj|c:\\users\\oktay\\source\\repos\\task7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13BBB4DC-73FA-4348-984E-B9D08E7CF163}|..\\Task7\\Task7.csproj|c:\\users\\oktay\\source\\repos\\task7\\month.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C94FFACC-F619-4CDC-A02C-ED0C91494B85}|..\\Task5\\Task5.csproj|c:\\users\\oktay\\source\\repos\\task5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C94FFACC-F619-4CDC-A02C-ED0C91494B85}|..\\Task5\\Task5.csproj|c:\\users\\oktay\\source\\repos\\task5\\motocycle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C94FFACC-F619-4CDC-A02C-ED0C91494B85}|..\\Task5\\Task5.csproj|c:\\users\\oktay\\source\\repos\\task5\\ivehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C94FFACC-F619-4CDC-A02C-ED0C91494B85}|..\\Task5\\Task5.csproj|c:\\users\\oktay\\source\\repos\\task5\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C94FFACC-F619-4CDC-A02C-ED0C91494B85}|..\\Task5\\Task5.csproj|c:\\users\\oktay\\source\\repos\\task5\\bus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E077D102-5D4D-4668-B106-572BFE4062EA}|..\\Task4\\Task4.csproj|c:\\users\\oktay\\source\\repos\\task4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E077D102-5D4D-4668-B106-572BFE4062EA}|..\\Task4\\Task4.csproj|c:\\users\\oktay\\source\\repos\\task4\\datetime.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC56E24E-3599-4756-BF0D-34F55DBB7B4A}|..\\Task3\\Task3.csproj|c:\\users\\oktay\\source\\repos\\task3\\temperatureconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC56E24E-3599-4756-BF0D-34F55DBB7B4A}|..\\Task3\\Task3.csproj|c:\\users\\oktay\\source\\repos\\task3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55FB6690-5B02-4F06-9342-00DF452B3DB1}|..\\Task2\\Task2.csproj|c:\\users\\oktay\\source\\repos\\task2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55FB6690-5B02-4F06-9342-00DF452B3DB1}|..\\Task2\\Task2.csproj|c:\\users\\oktay\\source\\repos\\task2\\months.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AA2F1EF-A7CB-44D2-A2DE-777433ACA2AF}|Task1.csproj|c:\\users\\oktay\\source\\repos\\task1\\calculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0AA2F1EF-A7CB-44D2-A2DE-777433ACA2AF}|Task1.csproj|solutionrelative:calculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AA2F1EF-A7CB-44D2-A2DE-777433ACA2AF}|Task1.csproj|c:\\users\\oktay\\source\\repos\\task1\\icalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0AA2F1EF-A7CB-44D2-A2DE-777433ACA2AF}|Task1.csproj|solutionrelative:icalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AA2F1EF-A7CB-44D2-A2DE-777433ACA2AF}|Task1.csproj|c:\\users\\oktay\\source\\repos\\task1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0AA2F1EF-A7CB-44D2-A2DE-777433ACA2AF}|Task1.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "student.cs",
+              "DocumentMoniker": "C:\\Users\\oktay\\source\\repos\\Task15\\student.cs",
+              "RelativeDocumentMoniker": "..\\Task15\\student.cs",
+              "ToolTip": "C:\\Users\\oktay\\source\\repos\\Task15\\student.cs",
+              "RelativeToolTip": "..\\Task15\\student.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T19:33:35.448Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\oktay\\source\\repos\\Task15\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Task15\\Program.cs",
+              "ToolTip": "C:\\Users\\oktay\\source\\repos\\Task15\\Program.cs",
+              "RelativeToolTip": "..\\Task15\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T19:33:05.369Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "grade.cs",
+              "DocumentMoniker": "C:\\Users\\oktay\\source\\repos\\Task15\\grade.cs",
+              "RelativeDocumentMoniker": "..\\Task15\\grade.cs",
+              "ToolTip": "C:\\Users\\oktay\\source\\repos\\Task15\\grade.cs",
+              "RelativeToolTip": "..\\Task15\\grade.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T19:32:58.734Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "degree.cs",
+              "DocumentMoniker": "C:\\Users\\oktay\\source\\repos\\Task15\\degree.cs",
+              "RelativeDocumentMoniker": "..\\Task15\\degree.cs",
+              "ToolTip": "C:\\Users\\oktay\\source\\repos\\Task15\\degree.cs",
+              "RelativeToolTip": "..\\Task15\\degree.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T19:32:40.489Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "TrafficLights.cs",
+              "DocumentMoniker": "C:\\Users\\oktay\\source\\repos\\Task14\\TrafficLights.cs",
+              "RelativeDocumentMoniker": "..\\Task14\\TrafficLights.cs",
+              "ToolTip": "C:\\Users\\oktay\\source\\repos\\Task14\\TrafficLights.cs",
+              "RelativeToolTip": "..\\Task14\\TrafficLights.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAA4wCwAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T19:31:53.451Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\oktay\\source\\repos\\Task14\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Task14\\Program.cs",
+              "ToolTip": "C:\\Users\\oktay\\source\\repos\\Task14\\Program.cs",
+              "RelativeToolTip": "..\\Task14\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T19:31:36.129Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "song.cs",
+              "DocumentMoniker": "C:\\Users\\oktay\\source\\repos\\Task13\\song.cs",
+              "RelativeDocumentMoniker": "..\\Task13\\song.cs",
+              "ToolTip": "C:\\Users\\oktay\\source\\repos\\Task13\\song.cs",
+              "RelativeToolTip": "..\\Task13\\song.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T19:30:36.925Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\oktay\\source\\repos\\Task13\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Task13\\Program.cs",
+              "ToolTip": "C:\\Users\\oktay\\source\\repos\\Task13\\Program.cs",
+              "RelativeToolTip": "..\\Task13\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T19:30:08.452Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "playlist.cs",
+              "DocumentMoniker": "C:\\Users\\oktay\\source\\repos\\Task13\\playlist.cs",
+              "RelativeDocumentMoniker": "..\\Task13\\playlist.cs",
+              "ToolTip": "C:\\Users\\oktay\\source\\repos\\Task13\\playlist.cs",
+              "RelativeToolTip": "..\\Task13\\playlist.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACUAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T19:29:56.886Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "genre.cs",
+              "DocumentMoniker": "C:\\Users\\oktay\\source\\repos\\Task13\\genre.cs",
+              "RelativeDocumentMoniker": "..\\Task13\\genre.cs",
+              "ToolTip": "C:\\Users\\oktay\\source\\repos\\Task13\\genre.cs",
+              "RelativeToolTip": "..\\Task13\\genre.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T19:29:47.184Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\oktay\\source\\repos\\Task12\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Task12\\Program.cs",
+              "ToolTip": "C:\\Users\\oktay\\source\\repos\\Task12\\Program.cs",
+              "RelativeToolTip": "..\\Task12\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T19:28:59.055Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "type.cs",
+              "DocumentMoniker": "C:\\Users\\oktay\\source\\repos\\Task12\\type.cs",
+              "RelativeDocumentMoniker": "..\\Task12\\type.cs",
+              "ToolTip": "C:\\Users\\oktay\\source\\repos\\Task12\\type.cs",
+              "RelativeToolTip": "..\\Task12\\type.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T19:25:35.067Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "product.cs",
+              "DocumentMoniker": "C:\\Users\\oktay\\source\\repos\\Task12\\product.cs",
+              "RelativeDocumentMoniker": "..\\Task12\\product.cs",
+              "ToolTip": "C:\\Users\\oktay\\source\\repos\\Task12\\product.cs",
+              "RelativeToolTip": "..\\Task12\\product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T19:25:11.763Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "catalog.cs",
+              "DocumentMoniker": "C:\\Users\\oktay\\source\\repos\\Task12\\catalog.cs",
+              "RelativeDocumentMoniker": "..\\Task12\\catalog.cs",
+              "ToolTip": "C:\\Users\\oktay\\source\\repos\\Task12\\catalog.cs",
+              "RelativeToolTip": "..\\Task12\\catalog.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAACMAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T19:24:55.431Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\oktay\\source\\repos\\Task11\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Task11\\Program.cs",
+              "ToolTip": "C:\\Users\\oktay\\source\\repos\\Task11\\Program.cs",
+              "RelativeToolTip": "..\\Task11\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T19:24:18.29Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "MathUtils.cs",
+              "DocumentMoniker": "C:\\Users\\oktay\\source\\repos\\Task11\\MathUtils.cs",
+              "RelativeDocumentMoniker": "..\\Task11\\MathUtils.cs",
+              "ToolTip": "C:\\Users\\oktay\\source\\repos\\Task11\\MathUtils.cs",
+              "RelativeToolTip": "..\\Task11\\MathUtils.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T19:23:44.124Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "StringExt.cs",
+              "DocumentMoniker": "C:\\Users\\oktay\\source\\repos\\Task10\\StringExt.cs",
+              "RelativeDocumentMoniker": "..\\Task10\\StringExt.cs",
+              "ToolTip": "C:\\Users\\oktay\\source\\repos\\Task10\\StringExt.cs",
+              "RelativeToolTip": "..\\Task10\\StringExt.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T19:23:01.323Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\oktay\\source\\repos\\Task10\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Task10\\Program.cs",
+              "ToolTip": "C:\\Users\\oktay\\source\\repos\\Task10\\Program.cs",
+              "RelativeToolTip": "..\\Task10\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T19:22:24.342Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\oktay\\source\\repos\\Task6\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Task6\\Program.cs",
+              "ToolTip": "C:\\Users\\oktay\\source\\repos\\Task6\\Program.cs",
+              "RelativeToolTip": "..\\Task6\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T19:20:14.382Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "stringExt.cs",
+              "DocumentMoniker": "C:\\Users\\oktay\\source\\repos\\Task6\\stringExt.cs",
+              "RelativeDocumentMoniker": "..\\Task6\\stringExt.cs",
+              "ToolTip": "C:\\Users\\oktay\\source\\repos\\Task6\\stringExt.cs",
+              "RelativeToolTip": "..\\Task6\\stringExt.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T19:20:25.979Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "stringExt.cs",
+              "DocumentMoniker": "C:\\Users\\oktay\\source\\repos\\Task9\\stringExt.cs",
+              "RelativeDocumentMoniker": "..\\Task9\\stringExt.cs",
+              "ToolTip": "C:\\Users\\oktay\\source\\repos\\Task9\\stringExt.cs",
+              "RelativeToolTip": "..\\Task9\\stringExt.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T19:19:31.139Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\oktay\\source\\repos\\Task9\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Task9\\Program.cs",
+              "ToolTip": "C:\\Users\\oktay\\source\\repos\\Task9\\Program.cs",
+              "RelativeToolTip": "..\\Task9\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T19:19:24.362Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "stringExt.cs",
+              "DocumentMoniker": "C:\\Users\\oktay\\source\\repos\\Task8\\stringExt.cs",
+              "RelativeDocumentMoniker": "..\\Task8\\stringExt.cs",
+              "ToolTip": "C:\\Users\\oktay\\source\\repos\\Task8\\stringExt.cs",
+              "RelativeToolTip": "..\\Task8\\stringExt.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T19:18:18.695Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\oktay\\source\\repos\\Task8\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Task8\\Program.cs",
+              "ToolTip": "C:\\Users\\oktay\\source\\repos\\Task8\\Program.cs",
+              "RelativeToolTip": "..\\Task8\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAsAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T19:18:09.536Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\oktay\\source\\repos\\Task7\\User.cs",
+              "RelativeDocumentMoniker": "..\\Task7\\User.cs",
+              "ToolTip": "C:\\Users\\oktay\\source\\repos\\Task7\\User.cs",
+              "RelativeToolTip": "..\\Task7\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T19:16:59.007Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "stringExt.cs",
+              "DocumentMoniker": "C:\\Users\\oktay\\source\\repos\\Task7\\stringExt.cs",
+              "RelativeDocumentMoniker": "..\\Task7\\stringExt.cs",
+              "ToolTip": "C:\\Users\\oktay\\source\\repos\\Task7\\stringExt.cs",
+              "RelativeToolTip": "..\\Task7\\stringExt.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T19:16:50.441Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\oktay\\source\\repos\\Task7\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Task7\\Program.cs",
+              "ToolTip": "C:\\Users\\oktay\\source\\repos\\Task7\\Program.cs",
+              "RelativeToolTip": "..\\Task7\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T19:16:33.988Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "month.cs",
+              "DocumentMoniker": "C:\\Users\\oktay\\source\\repos\\Task7\\month.cs",
+              "RelativeDocumentMoniker": "..\\Task7\\month.cs",
+              "ToolTip": "C:\\Users\\oktay\\source\\repos\\Task7\\month.cs",
+              "RelativeToolTip": "..\\Task7\\month.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T19:16:18.934Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\oktay\\source\\repos\\Task5\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Task5\\Program.cs",
+              "ToolTip": "C:\\Users\\oktay\\source\\repos\\Task5\\Program.cs",
+              "RelativeToolTip": "..\\Task5\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T19:15:35.641Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "motocycle.cs",
+              "DocumentMoniker": "C:\\Users\\oktay\\source\\repos\\Task5\\motocycle.cs",
+              "RelativeDocumentMoniker": "..\\Task5\\motocycle.cs",
+              "ToolTip": "C:\\Users\\oktay\\source\\repos\\Task5\\motocycle.cs",
+              "RelativeToolTip": "..\\Task5\\motocycle.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T19:15:21.542Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "IVehicle.cs",
+              "DocumentMoniker": "C:\\Users\\oktay\\source\\repos\\Task5\\IVehicle.cs",
+              "RelativeDocumentMoniker": "..\\Task5\\IVehicle.cs",
+              "ToolTip": "C:\\Users\\oktay\\source\\repos\\Task5\\IVehicle.cs",
+              "RelativeToolTip": "..\\Task5\\IVehicle.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T19:15:08.292Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "car.cs",
+              "DocumentMoniker": "C:\\Users\\oktay\\source\\repos\\Task5\\car.cs",
+              "RelativeDocumentMoniker": "..\\Task5\\car.cs",
+              "ToolTip": "C:\\Users\\oktay\\source\\repos\\Task5\\car.cs",
+              "RelativeToolTip": "..\\Task5\\car.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T19:14:53.91Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "bus.cs",
+              "DocumentMoniker": "C:\\Users\\oktay\\source\\repos\\Task5\\bus.cs",
+              "RelativeDocumentMoniker": "..\\Task5\\bus.cs",
+              "ToolTip": "C:\\Users\\oktay\\source\\repos\\Task5\\bus.cs",
+              "RelativeToolTip": "..\\Task5\\bus.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T19:14:40.266Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\oktay\\source\\repos\\Task4\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Task4\\Program.cs",
+              "ToolTip": "C:\\Users\\oktay\\source\\repos\\Task4\\Program.cs",
+              "RelativeToolTip": "..\\Task4\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T19:13:48.911Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "datetime.cs",
+              "DocumentMoniker": "C:\\Users\\oktay\\source\\repos\\Task4\\datetime.cs",
+              "RelativeDocumentMoniker": "..\\Task4\\datetime.cs",
+              "ToolTip": "C:\\Users\\oktay\\source\\repos\\Task4\\datetime.cs",
+              "RelativeToolTip": "..\\Task4\\datetime.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T19:13:35.067Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "TemperatureConverter.cs",
+              "DocumentMoniker": "C:\\Users\\oktay\\source\\repos\\Task3\\TemperatureConverter.cs",
+              "RelativeDocumentMoniker": "..\\Task3\\TemperatureConverter.cs",
+              "ToolTip": "C:\\Users\\oktay\\source\\repos\\Task3\\TemperatureConverter.cs",
+              "RelativeToolTip": "..\\Task3\\TemperatureConverter.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T19:12:44.596Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\oktay\\source\\repos\\Task3\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Task3\\Program.cs",
+              "ToolTip": "C:\\Users\\oktay\\source\\repos\\Task3\\Program.cs",
+              "RelativeToolTip": "..\\Task3\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T19:11:53.666Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\oktay\\source\\repos\\Task2\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Task2\\Program.cs",
+              "ToolTip": "C:\\Users\\oktay\\source\\repos\\Task2\\Program.cs",
+              "RelativeToolTip": "..\\Task2\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T19:11:27.758Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "Months.cs",
+              "DocumentMoniker": "C:\\Users\\oktay\\source\\repos\\Task2\\Months.cs",
+              "RelativeDocumentMoniker": "..\\Task2\\Months.cs",
+              "ToolTip": "C:\\Users\\oktay\\source\\repos\\Task2\\Months.cs",
+              "RelativeToolTip": "..\\Task2\\Months.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T19:10:21.799Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\oktay\\source\\repos\\Task1\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\oktay\\source\\repos\\Task1\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T19:09:38.694Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "ICalculator.cs",
+              "DocumentMoniker": "C:\\Users\\oktay\\source\\repos\\Task1\\ICalculator.cs",
+              "RelativeDocumentMoniker": "ICalculator.cs",
+              "ToolTip": "C:\\Users\\oktay\\source\\repos\\Task1\\ICalculator.cs",
+              "RelativeToolTip": "ICalculator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T19:09:14.506Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "Calculator.cs",
+              "DocumentMoniker": "C:\\Users\\oktay\\source\\repos\\Task1\\Calculator.cs",
+              "RelativeDocumentMoniker": "Calculator.cs",
+              "ToolTip": "C:\\Users\\oktay\\source\\repos\\Task1\\Calculator.cs",
+              "RelativeToolTip": "Calculator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T19:08:17.566Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
